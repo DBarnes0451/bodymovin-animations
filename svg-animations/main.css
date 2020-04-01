@@ -1,0 +1,33 @@
+html, body {
+    height:100%;
+    margin: 0;
+  }
+
+  body{
+display: grid;
+justify-items: center;
+}
+
+#heart-anim {
+    width: 250px;
+}
+
+#star-anim {
+  width: 250px;
+}
+
+#cog-anim {
+  width: 250px;
+}
+
+#mail-anim {
+  width: 250px;
+}
+
+#call-anim {
+  width: 250px;
+}
+
+#share-anim {
+  width: 250px;
+}
